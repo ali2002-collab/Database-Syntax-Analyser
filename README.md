@@ -5,6 +5,7 @@ This repository comprises Java code for a SQL Query Analyser created by Syed Muh
 ## Main Class (Main.java)
 
 Welcome Message and Options: Presents a welcome message and provides options to either log in or exit the program.
+
 Login Handling: Utilizes the Login class to authenticate users. [Credentials located in userdb.txt within the src folder of the code]
 [Redgate email: abc@red-gate.com], [password: pass]
 ## Login Class (Login.java)
@@ -59,7 +60,7 @@ The code interacts with SQLFluff, a SQL linting tool, using the 'ansi' dialect f
 Invoked via ProcessBuilder to execute SQLFluff commands in the background.
 [Ensure Python is installed on your system]
 Usage
-## To use this SQL Code Analysis Dashboard:
+## To use this SQL Query Analyser:
 
 	Ensure you have Java installed on your system.
 
