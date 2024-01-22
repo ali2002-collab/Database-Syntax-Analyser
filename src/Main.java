@@ -1,6 +1,6 @@
 // NAME: SYED MUHAMMAD ALI HASSAN
-// SID: 2248952
-// Team: Java Jugglers
+// This project was a part of uni module
+
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
