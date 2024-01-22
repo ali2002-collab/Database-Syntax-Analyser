@@ -1,1 +1,1 @@
-# Database-Syntax-Analyser
+# SQL-Query-Analyser
