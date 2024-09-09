@@ -1,5 +1,5 @@
-# SQL Query Analyser 
-This repository comprises Java code for a SQL Query Analyser created by Syed Muhammad Ali Hassan .The dashboard offers functionalities to authenticate users, assess SQL health, view alerts, and apply fixes to SQL files using the SQLFluff linting tool.
+# SQL Linting Tool 
+This repository comprises Java code for a SQL Linting Tool Dashboard created by Syed Muhammad Ali Hassan .The dashboard offers functionalities to authenticate users, assess SQL health, view alerts, and apply fixes to SQL files using the SQLFluff linting tool.
 
 # Features
 ## Main Class (Main.java)
